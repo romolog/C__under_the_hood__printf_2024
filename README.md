@@ -19,6 +19,6 @@ You can explore my printf() function with VSCode or any other suitable IDE.
 
 ```bash
 git clone https://github.com/romolog/C__under_the_hood__printf_2024 printf;
-cd printf;
+cd printf/printf;
 code .;
 ```
